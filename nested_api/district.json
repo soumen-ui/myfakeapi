@@ -2,6 +2,13 @@
     {
       "name": "Mr. John ",
       "subject": "Science",
+      email: "Science@gmail.com",
+      age: "56 years",
+       action: "xyz",
+      baction: "222cctrue",
+      ccc: "c-c-c",
+      ncaction: "333cctrue",         
+      slot: "Booked",
       "football": {
         "company": "adidas",
         "size": "10 no",
